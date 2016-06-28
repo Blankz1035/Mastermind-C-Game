@@ -1,0 +1,4 @@
+﻿  mastermind.c
+c:\users\andy\documents\gmit\andyblankley_procedual\mastermindgame\mastermind\mastermind.c(44): warning C4013: 'menu' undefined; assuming extern returning int
+c:\users\andy\documents\gmit\andyblankley_procedual\mastermindgame\mastermind\mastermind.c(386): warning C4715: 'menu': not all control paths return a value
+  Mastermind.vcxproj -> C:\Users\Andy\Documents\GMIT\AndyBlankley_Procedual\MastermindGame\Debug\Mastermind.exe
